@@ -1,0 +1,11 @@
+﻿fastapi
+uvicorn
+sqlalchemy
+pydantic
+python-dotenv
+requests
+pandas
+numpy
+python-dateutil
+pymysql
+mysqlclient
